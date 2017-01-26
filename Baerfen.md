@@ -23,3 +23,8 @@
 | 13 (+1)      | 12 (+1)| 14 (+2)  |
 ---
 
+## Weapons
+
+| Name | Attack bonus | Damage | Range |
+| :---: | :---: | :---: | :---: |
+| Dagger | +4 | 1D6 +2 | |
