@@ -2,7 +2,7 @@
 
 | Class | Race       | Backgound                | Alignment       | Experience | Level |
 | :---: | :---:      | :---:                    | :---:           | :---:      | :---: |
-| Rogue | Rock Gnome | Guild Artisan (merchant) | Chaotic neutral | 910        | 3     |
+| Rogue | Rock Gnome | Guild Artisan (merchant) | Chaotic neutral | 1030       | 3     |
 
 
 | HP    | CA    | Iniciative | Speed |
